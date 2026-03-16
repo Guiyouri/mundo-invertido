@@ -6,10 +6,6 @@ Projeto desenvolvido com foco em prática de HTML, CSS e JavaScript, explorando 
 
 ---
 
-## 🚀 Demonstração
-
-🔗 Em breve (adicione aqui o link do deploy - Vercel ou Netlify)
-
 ---
 
 ## ✨ Funcionalidades
